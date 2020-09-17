@@ -1,4 +1,4 @@
-package com.ejtone.mars.kernel.util.worker.test;
+package com.ejtone.mars.kernel.util.worker;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

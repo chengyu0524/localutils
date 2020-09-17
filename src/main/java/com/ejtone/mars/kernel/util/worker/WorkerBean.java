@@ -1,4 +1,4 @@
-package com.ejtone.mars.kernel.util.worker.test;
+package com.ejtone.mars.kernel.util.worker;
 
 public class WorkerBean {
 	//自己的实体类数据
